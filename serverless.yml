@@ -51,7 +51,7 @@ package:
 
 functions:
   hello:
-    handler: com.test.config.Handler::handleRequest
+    handler: com.demo.config.Handler::handleRequest
     events:
       - http:
           path: /{proxy+}

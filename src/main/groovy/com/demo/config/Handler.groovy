@@ -1,4 +1,4 @@
-package com.test.config
+package com.demo.config
 
 
 import com.amazonaws.serverless.exceptions.ContainerInitializationException

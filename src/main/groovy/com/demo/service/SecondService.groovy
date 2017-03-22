@@ -1,4 +1,4 @@
-package com.test.service
+package com.demo.service
 
 import org.json.JSONObject
 import org.springframework.http.ResponseEntity
